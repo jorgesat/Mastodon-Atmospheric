@@ -1,10 +1,10 @@
-# Sociologists on Mastodon
+# Atmospheric and Air Quality scientists on Mastodon
 
-This repository provides a most simple web app that helps to bulk follow sociologists on the FOSS microblogging service Mastodon. In it you can create a csv-file that can be uploaded in any accounts mastodon seetings, in order to follow a list of accounts at once.
+This repository provides a most simple web app that helps to bulk follow atmospheric and air quality scientists on the FOSS microblogging service Mastodon. In it you can create a csv-file that can be uploaded in any accounts mastodon seetings, in order to follow a list of accounts at once.
 
 ## Can I use this for my discipline/peer group?
 
-Yes, basically you just have to fork the repro and make some minor changes. **But we want to make you aware that this is by no means a professional project. Things may fall apart. It’s not very complex, and if you store your CSV file safely, nothing bad should happen. But our main focus is to make this work for the Sociologists on Mastodon page, not to offer generic tool. We still try make things easy for you, if you want to set something similar up.**
+Yes, basically you just have to fork the repro and make some minor changes. **But we want to make you aware that this is by no means a professional project. Things may fall apart. It’s not very complex, and if you store your CSV file safely, nothing bad should happen. But our main focus is to make this work for the Atmospheric Science on Mastodon page, not to offer generic tool. We still try make things easy for you, if you want to set something similar up.**
 
 > **Please make sure to only add account information into your csv file and webpage with the consent of the owner of the account!** Even though we are keeping minimal stored information, make sure everybody has agreed to be on your list. Keep in mind that if you delete a name from the file it will still be in the repository's history, so the best security is ensuring accounts with owners that do not consent never get added to a list. Scraping publicly accessible information for accounts to add to the csv file and webpage does not gather consent.
 
@@ -41,4 +41,4 @@ Once you have done that, you can simply change the Title. I suggest you also cha
 
 ## License
 
-The repository can be used under GNU General Public Licese v3, except the /resources/sociologists.csv-file, which can only be used with explicit permission by the authors.
+The repository can be used under GNU General Public Licese v3, except the /resources/atmospheric.csv-file, which can only be used with explicit permission by the authors.
