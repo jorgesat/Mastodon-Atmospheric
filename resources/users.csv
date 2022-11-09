@@ -1,44 +1,45 @@
-account,name,link,keywords,language
+﻿account,name,link,keywords,language
 @rachelOB1@mastodon.social,Rachel O'Brien,https://mastodon.social/@rachelOB1,
-@subu_caps@mastodon.social,R Subramanian (Subu),https://mastodon.social/@subu_caps,
-@pHrozenChemGeek@mas.to,Peter Peterson ,https://mas.to/@pHrozenChemGeek,
-@H_Herrmann24@mastodon.social,Hartmut Herrmann,https://mastodon.social/@h_herrmann24,Atmospheric chemistry of gas phase, aerosols and clouds, lab,field experiments and CAPRAM modeling
-@FlorentLouis59@mastodon.online,Florent Louis,https://mastodon.online/@FlorentLouis59,Associate Professor at the University of Lille interested in environnemental chemistry using molecular simulations 
-@DeitschHaLevi@mstdn.social,Adam Deitsch,https://mstdn.social/@DeitschHaLevi,PhD Student at UAlbany
-@leanhealth@medibubble.org,Leanhealth,https://medibubble.org/@Leanhealth,
-@Juan_Antonio@mastodon.online,Juan A. Añel,https://mastodon.online/@Juan_Antonio,
+@subu_caps@mastodon.social,R Subramanian (Subu),https://mastodon.social/@subu_caps,Indoor_air_quality outdoor_air_quality aerosol_particles
+@pHrozenChemGeek@mas.to,Peter Peterson ,https://mas.to/@pHrozenChemGeek,air_quality low-cost_sensors methane
+@H_Herrmann24@mastodon.social,Hartmut Herrmann,https://mastodon.social/@h_herrmann24,DOAS Arctic halogens
+@FlorentLouis59@mastodon.online,Florent Louis,https://mastodon.online/@FlorentLouis59,Atmospheric_Chemistry Multiphase_Chemistry
+@DeitschHaLevi@mstdn.social,Adam Deitsch,https://mstdn.social/@DeitschHaLevi,Atmospheric_chemistry computational_chemistry 
+@leanhealth@medibubble.org,Leanhealth,https://medibubble.org/@Leanhealth,Atmospheric_Micropastics Nanoplastics
+@Juan_Antonio@mastodon.online,Juan A. Añel,https://mastodon.online/@Juan_Antonio,Lean_in_healthcare
 @embfranks@qoto.org,Emily Franklin,https://qoto.org/@embfranks,
-@jljcolorado@qoto.org,Jose-Luis Jimenez,https://qoto.org/@jljcolorado,
-@DB_Millet@scholar.social,Dylan B. Millet,https://scholar.social/@DB_Millet,
-@PepperMaskwell@pettingzoo.co,PepperMaskWell,https://pettingzoo.co/@PepperMaskWell,active in #OSHAHearing stuff, #Union stuff, more
-@nousaerons@piaille.fr,Nous aérons,https://piaille.fr/@nousaerons,Our web site : https://nousaerons.fr
-@duncanwp@mastodon.online,Duncan Watson-Parris,https://mastodon.online/@duncanwp,
-@ozzie@mastodon.world,Ozonotodon,https://mastodon.world/@ozzie,
-@AlexCaseiro1979@Mastodon.cloud,Alex Caseiro,https://mastodon.cloud/@AlexCaseiro1979,
-@marinavance@mastodon.social,Marina Vance,https://mastodon.social/@marinavance,Assistant professor at CU Boulder
-@MarshallJulian@fediscience.org,Julian Marshall,https://fediscience.org/@MarshallJulian,Professor, University of Washington
-@AriFeinberg@mastodon.social,Ari Feinberg,https://mastodon.social/@AriFeinberg,Postdoc at MIT
-@rybchuk@fediscience.org,Alex Rybchuk,https://fediscience.org/@rybchuk,
-@JenniferAFaust@mastodon.online,Jennifer Faust,https://mastodon.online/@JenniferAFaust,professor at a small liberal arts college
-@langleydew@mas.to,Langley DeWitt,https://mas.to/@langleydew,
-@mikemaddenwx@mas.to,Mike Madden,https://mas.to/@mikemaddenwx,Very engaged on Tiktok (@mikemaddenwx), Just defended PhD at NC State, Likes Science Policy, Trivia, Music Production, Piano 
-@sc_k@climatejustice.social,Sarah Kavassalis ,https://climatejustice.social/@sc_k,Incoming Assistant Prof at Harvey Mudd College
-@ruben@fediweij.nl,Ruben Verweij,https://fediweij.nl/profile/ruben,@Dutch nat. inst. for Public Health & Environment (RIVM)
-@tmh@mastodon.online,Tmh,https://mastodon.online/@tmh,Prof. of Chemistry 
-@borduas@mas.to,Nadine Borduas-Dedekind,https://mas.to/@borduas,Prof at UBC, skier, science is global
-@kkakosim@mathstodon.xyz,Konstantinos Kakosimos,https://mathstodon.xyz/@kkakosim,
-@mzawadowicz@fediscience.org,Maria Zawadowicz,https://fediscience.org/@mzawadowicz,
-@paultgriffiths@scicomm.xyz,Paul Griffiths,https://scicomm.xyz/@paultgriffiths,NCAS funded postdoc in Cambridge
-@joelt@mastodon.online,Joel Thornton,https://mastodon.online/@joelt,
-@LiselotteTinel@mas.to,Liselotte Tinel,https://mas.to/@LiselotteTinel,cyclist & assistant professor @ IMT Nord Europe, France
-@Lucintpanis@mastodon.online,Luc Int Panis,https://mastodon.online/@Lucintpanis,Belgium, Vito, UHasselt 
-@wouter_lefebvre@fediscience.org,Wouter Lefebvre ,https://fediscience.org/@wouter_lefebvre,
-@jianzhaobi@mas.to,Jianzhao Bi,https://mas.to/@jianzhaobi,Postdoc at the University of Washington, Seattle
-@EUPASTA@mastodon.online,EUPASTA,https://mastodon.online/@EUPASTA,Scientific and policy results from the European PASTA project
-@fransfie@mastodon.social,Frans Fierens,https://mastodon.social/@fransfie,working for the Belgian Interregional Environment Agency (IRCEL).
-@jorge@scholar.social,Jorge Saturno,https://scholar.social/@jorge,Research scientist at PTB
-@TC_Chakraborty@fediscience.org,TC Chakraborty,https://fediscience.org/@TC_Chakraborty,I am Tirthankar Chakraborty (commonly known as TC), a staff scientist in the Earth System Modeling Group under the Atmospheric Sciences and Global Change Division of the Pacific Northwest National Laboratory. I am currently working on developing and improving urban representation in land models using various observational products, including satellite-derived estimates, and examining extreme events over coastal cities. My broad research interest is in biosphere-atmosphere interactions
-@Jacquirickard@mastodon.social,Jacqui Hamilton,https://mastodon.social/@Jacquirickard,
-@milliechubaird@universeodon.com,Millie Chu Baird,https://universeodon.com/@milliechubaird,
-@yuqiangzhang@mas.to,Yuqiang Alan Zhang,https://mas.to/@yuqiangzhang,Professor at Shandong University, China
-@guolivar@fosstodon.org,Gustavo Olivares ,https://fosstodon.org/@guolivar,
+@jljcolorado@qoto.org,Jose-Luis Jimenez,https://qoto.org/@jljcolorado,Aerosols Air_Pollution Secondary_Organic_Aerosol Environmental_Justice
+@DB_Millet@scholar.social,Dylan B. Millet,https://scholar.social/@DB_Millet,Atmospheric_Chemistry indoor_air instrumentation airborne_transmission_of_viruses
+@PepperMaskwell@pettingzoo.co,PepperMaskWell,https://pettingzoo.co/@PepperMaskWell,Atmospheric_chemistry VOCs biosphere-atmosphere_exchange remote_sensing
+@nousaerons@piaille.fr,Nous aérons,https://piaille.fr/@nousaerons,IAQ COVID Airborne_diseases activism abrupt_climate_change meteorology
+@duncanwp@mastodon.online,Duncan Watson-Parris,https://mastodon.online/@duncanwp,Indoor_Air_Quality CO2_monitoring indoor_air_quality
+@ozzie@mastodon.world,Ozonotodon,https://mastodon.world/@ozzie,Aerosol climate machine_learning
+@AlexCaseiro1979@Mastodon.cloud,Alex Caseiro,https://mastodon.cloud/@AlexCaseiro1979,Tropospheric_ozone aerosol_chemistry biomass_burning CMAQ 
+@marinavance@mastodon.social,Marina Vance,https://mastodon.social/@marinavance,Atmospheric Aerosols, Air Pollution, Remote Sensing
+@MarshallJulian@fediscience.org,Julian Marshall,https://fediscience.org/@MarshallJulian,Aerosols indoor_air_quality air_pollution
+@AriFeinberg@mastodon.social,Ari Feinberg,https://mastodon.social/@AriFeinberg,Air_pollution exposure_assessment environmental_justice
+@rybchuk@fediscience.org,Alex Rybchuk,https://fediscience.org/@rybchuk,Boundary_layer_meteorology wind_energy large-eddy_simulation NWP
+@JenniferAFaust@mastodon.online,Jennifer Faust,https://mastodon.online/@JenniferAFaust,atmospheric_chemistry aerosol_chemistry non-targeted_analysis teaching equity_and_inclusion_in_STEM
+@langleydew@mas.to,Langley DeWitt,https://mas.to/@langleydew,Atmospheric_Chemistry Air_Quality International_Collaboration
+@mikemaddenwx@mas.to,Mike Madden,https://mas.to/@mikemaddenwx,Heavy_Rainfall Lightning Numerical_Modeling
+@sc_k@climatejustice.social,Sarah Kavassalis ,https://climatejustice.social/@sc_k,ozone micrometeorology modelling machine_learning air_quality_policy
+@ruben@fediweij.nl,Ruben Verweij,https://fediweij.nl/profile/ruben,Air_quality Nitrogen_deposition Modeling
+@tmh@mastodon.online,Tmh,https://mastodon.online/@tmh,Research prevention therapeutics
+@borduas@mas.to,Nadine Borduas-Dedekind,https://mas.to/@borduas,Atmospheric_chemistry mass_spectrometry photochemistry  ice_nucleation 
+@kkakosim@mathstodon.xyz,Konstantinos Kakosimos,https://mathstodon.xyz/@kkakosim,research local_scale personalized_exposure industrial_emissions emergency_response 
+@mzawadowicz@fediscience.org,Maria Zawadowicz,https://fediscience.org/@mzawadowicz,Atmospheric_chemistry aerosol-cloud_interactions mass_spectrometry
+@paultgriffiths@scicomm.xyz,Paul Griffiths,https://scicomm.xyz/@paultgriffiths,atmospheric_chemistry ozone methane modelling
+@joelt@mastodon.online,Joel Thornton,https://mastodon.online/@joelt,atmospheric_chemistry air_pollution climate aerosol_particles clouds lightning
+@LiselotteTinel@mas.to,Liselotte Tinel,https://mas.to/@LiselotteTinel,air-sea_interactions VOCs iodine indoor_air
+@Lucintpanis@mastodon.online,Luc Int Panis,https://mastodon.online/@Lucintpanis,Air_pollution_exposure black_Carbon bicycling health active_mobility
+@wouter_lefebvre@fediscience.org,Wouter Lefebvre ,https://fediscience.org/@wouter_lefebvre,Air_Quality_modelling
+@jianzhaobi@mas.to,Jianzhao Bi,https://mas.to/@jianzhaobi,Air_Pollution_Exposure Epidemiology Remote_Sensing GIS Machine_Learning
+@EUPASTA@mastodon.online,EUPASTA,https://mastodon.online/@EUPASTA,Air_quality_modeling Forecasting_and_monitoring
+@fransfie@mastodon.social,Frans Fierens,https://mastodon.social/@fransfie,Air_pollution_modelling air_quality_index monitoring reporting
+@jorge@scholar.social,Jorge Saturno,https://scholar.social/@jorge,Atmospheric_aerosol black_carbon
+@TC_Chakraborty@fediscience.org,TC Chakraborty,https://fediscience.org/@TC_Chakraborty,atmosphere-biosphere_interactions remote_sensing urban_climate aerosol-climate_feedback
+@Jacquirickard@mastodon.social,Jacqui Hamilton,https://mastodon.social/@Jacquirickard,Organic_aerosols VOC mass_spectrometry 
+@milliechubaird@universeodon.com,Millie Chu Baird,https://universeodon.com/@milliechubaird,pollution_disparities environmental_justice
+@yuqiangzhang@mas.to,Yuqiang Alan Zhang,https://mas.to/@yuqiangzhang,Atmospheric_Chemistry Atmospheric_Modeling
+@guolivar@fosstodon.org,Gustavo Olivares,https://fosstodon.org/@guolivar,Air_quality low_cost_sensors indoor_air_quality aerosols
+@rahmstorf@fediscience.org,Stefan Rahmstorf,https://fediscience.org/@rahmstorf,Climate_impact Climate_change, en de
