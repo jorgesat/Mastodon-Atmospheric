@@ -16,6 +16,16 @@ body {
   padding: 0;
 }
 
+.hashtag {
+  text-decoration: none;
+  font-weight: normal;
+  color: white;
+  background: #1c4966;
+  border-width:0px;
+  padding-left: 1.4mm;
+  padding-right: 1.4mm;
+}
+
 /* Main app wrapper */
 div#app {
   width: 70vw;
