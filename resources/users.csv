@@ -1,7 +1,7 @@
 ﻿account,name,link,keywords,language
 @rachelOB1@mastodon.social,Rachel O'Brien,https://mastodon.social/@rachelOB1,
 @subu_caps@airpollution.science,R Subramanian (Subu),https://airpollution.science/@subu_caps,Indoor_air_quality outdoor_air_quality aerosol_particles
-@pHrozenChemGeek@mas.to,Peter Peterson ,https://mas.to/@pHrozenChemGeek,air_quality low-cost_sensors methane
+@pHrozenChemGeek@mas.to,Peter Peterson,https://mas.to/@pHrozenChemGeek,air_quality low-cost_sensors methane
 @H_Herrmann24@mastodon.social,Hartmut Herrmann,https://mastodon.social/@h_herrmann24,DOAS Arctic halogens
 @FlorentLouis59@mastodon.online,Florent Louis,https://mastodon.online/@FlorentLouis59,Atmospheric_Chemistry Multiphase_Chemistry
 @DeitschHaLevi@mstdn.social,Adam Deitsch,https://mstdn.social/@DeitschHaLevi,Atmospheric_chemistry computational_chemistry 
@@ -11,7 +11,6 @@
 @jljcolorado@qoto.org,Jose-Luis Jimenez,https://qoto.org/@jljcolorado,Aerosols Air_Pollution Secondary_Organic_Aerosol Environmental_Justice
 @DB_Millet@scholar.social,Dylan B. Millet,https://scholar.social/@DB_Millet,Atmospheric_Chemistry indoor_air instrumentation airborne_transmission_of_viruses
 @PepperMaskwell@pettingzoo.co,PepperMaskWell,https://pettingzoo.co/@PepperMaskWell,Atmospheric_chemistry VOCs biosphere-atmosphere_exchange remote_sensing
-@nousaerons@piaille.fr,Nous aérons,https://piaille.fr/@nousaerons,IAQ COVID Airborne_diseases activism abrupt_climate_change meteorology
 @duncanwp@mastodon.online,Duncan Watson-Parris,https://mastodon.online/@duncanwp,Indoor_Air_Quality CO2_monitoring indoor_air_quality
 @ozzie@mastodon.world,Ozonotodon,https://mastodon.world/@ozzie,Aerosol climate machine_learning
 @AlexCaseiro1979@Mastodon.cloud,Alex Caseiro,https://mastodon.cloud/@AlexCaseiro1979,Tropospheric_ozone aerosol_chemistry biomass_burning CMAQ 
@@ -36,7 +35,7 @@
 @jianzhaobi@mas.to,Jianzhao Bi,https://mas.to/@jianzhaobi,Air_Pollution_Exposure Epidemiology Remote_Sensing GIS Machine_Learning
 @EUPASTA@mastodon.online,EUPASTA,https://mastodon.online/@EUPASTA,Air_quality_modeling Forecasting_and_monitoring
 @fransfie@mastodon.social,Frans Fierens,https://mastodon.social/@fransfie,Air_pollution_modelling air_quality_index monitoring reporting
-@jorge@scholar.social,Jorge Saturno,https://scholar.social/@jorge,Atmospheric_aerosol black_carbon
+@jorge@scholar.social,Jorge Saturno,https://scholar.social/@jorge,Atmospheric_aerosol black_carbon air_quality,en es
 @TC_Chakraborty@fediscience.org,TC Chakraborty,https://fediscience.org/@TC_Chakraborty,atmosphere-biosphere_interactions remote_sensing urban_climate aerosol-climate_feedback
 @Jacquirickard@mastodon.social,Jacqui Hamilton,https://mastodon.social/@Jacquirickard,Organic_aerosols VOC mass_spectrometry 
 @milliechubaird@universeodon.com,Millie Chu Baird,https://universeodon.com/@milliechubaird,pollution_disparities environmental_justice
@@ -54,3 +53,5 @@
 @tilvi@mastodon.social,Eva Pfannerstill,https://mastodon.social/@tilvi,Atmospheric_chemistry VOCs reactivity biosphere-atmosphere_interactions air_pollution,en de
 @N_pavlovic@fediscience.org,Nathan Pavlovic,https://fediscience.org/@N_pavlovic,wild_fire air_quality air_pollution data_science,en
 @amanda_frossard@home.social,Amanda Frossard,https://home.social/@amanda_frossard,aerosol_chemistry marine_aerosol higroscopicity surfactants,en
+@vfmcneill@airpollution.science,Faye McNeill,https://airpollution.science/@vfmcneill,Air_Quality aerosols,en
+@heather_runberg@qoto.org,Heather Runberg,https://qoto.org/@heather_runberg,Analytical_atmospheric_chemistry_of_particulate_matter indoor_air_quality outdoor_air_quality,en 
