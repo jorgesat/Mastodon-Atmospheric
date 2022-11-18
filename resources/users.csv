@@ -7,16 +7,16 @@
 @DeitschHaLevi@mstdn.social,Adam Deitsch,https://mstdn.social/@DeitschHaLevi,Atmospheric_chemistry computational_chemistry 
 @leanhealth@medibubble.org,Leanhealth,https://medibubble.org/@Leanhealth,Atmospheric_Micropastics Nanoplastics
 @Juan_Antonio@mastodon.online,Juan A. Añel,https://mastodon.online/@Juan_Antonio,Lean_in_healthcare
-@embfranks@qoto.org,Emily Franklin,https://qoto.org/@embfranks,
-@jljcolorado@qoto.org,Jose-Luis Jimenez,https://qoto.org/@jljcolorado,Aerosols Air_Pollution Secondary_Organic_Aerosol Environmental_Justice
-@DB_Millet@scholar.social,Dylan B. Millet,https://scholar.social/@DB_Millet,Atmospheric_Chemistry indoor_air instrumentation airborne_transmission_of_viruses
-@PepperMaskwell@pettingzoo.co,PepperMaskWell,https://pettingzoo.co/@PepperMaskWell,Atmospheric_chemistry VOCs biosphere-atmosphere_exchange remote_sensing
-@duncanwp@mastodon.online,Duncan Watson-Parris,https://mastodon.online/@duncanwp,Indoor_Air_Quality CO2_monitoring indoor_air_quality
-@ozzie@mastodon.world,Ozonotodon,https://mastodon.world/@ozzie,Aerosol climate machine_learning
-@AlexCaseiro1979@Mastodon.cloud,Alex Caseiro,https://mastodon.cloud/@AlexCaseiro1979,Tropospheric_ozone aerosol_chemistry biomass_burning CMAQ 
-@marinavance@mastodon.social,Marina Vance,https://mastodon.social/@marinavance,Atmospheric Aerosols, Air Pollution, Remote Sensing
-@MarshallJulian@fediscience.org,Julian Marshall,https://fediscience.org/@MarshallJulian,Aerosols indoor_air_quality air_pollution
-@AriFeinberg@mastodon.social,Ari Feinberg,https://mastodon.social/@AriFeinberg,Air_pollution exposure_assessment environmental_justice
+@embfranks@qoto.org,Emily Franklin,https://qoto.org/@embfranks,Aerosols Air_Pollution Secondary_Organic_Aerosol Environmental_Justice
+@jljcolorado@qoto.org,Jose-Luis Jimenez,https://qoto.org/@jljcolorado,Atmospheric_Chemistry indoor_air instrumentation airborne_transmission_of_viruses
+@dbm@atmoschem.org,Dylan B. Millet,https://atmoschem.org/@dbm,Atmospheric_chemistry VOCs biosphere-atmosphere_exchange remote_sensing
+@PepperMaskwell@pettingzoo.co,PepperMaskWell,https://pettingzoo.co/@PepperMaskWell,IAQ COVID Airborne_diseases activism abrupt_climate_change meteorology
+@duncanwp@mastodon.online,Duncan Watson-Parris,https://mastodon.online/@duncanwp,Aerosol climate machine_learning
+@ozzie@mastodon.world,Ozonotodon,https://mastodon.world/@ozzie,Tropospheric_ozone aerosol_chemistry biomass_burning CMAQ 
+@AlexCaseiro1979@Mastodon.cloud,Alex Caseiro,https://mastodon.cloud/@AlexCaseiro1979,Atmospheric Aerosols, Air Pollution, Remote Sensing
+@marinavance@mastodon.social,Marina Vance,https://mastodon.social/@marinavance,Aerosols indoor_air_quality air_pollution
+@MarshallJulian@fediscience.org,Julian Marshall,https://fediscience.org/@MarshallJulian,Air_pollution exposure_assessment environmental_justice
+@AriFeinberg@mastodon.social,Ari Feinberg,https://mastodon.social/@AriFeinberg,Atmospheric_trace_element_cycling mercury mechanistic_modelling data_science
 @rybchuk@fediscience.org,Alex Rybchuk,https://fediscience.org/@rybchuk,Boundary_layer_meteorology wind_energy large-eddy_simulation NWP
 @JenniferAFaust@mastodon.online,Jennifer Faust,https://mastodon.online/@JenniferAFaust,atmospheric_chemistry aerosol_chemistry non-targeted_analysis teaching equity_and_inclusion_in_STEM
 @langleydew@mas.to,Langley DeWitt,https://mas.to/@langleydew,Atmospheric_Chemistry Air_Quality International_Collaboration
@@ -56,3 +56,16 @@
 @vfmcneill@airpollution.science,Faye McNeill,https://airpollution.science/@vfmcneill,Air_Quality aerosols,en
 @heather_runberg@qoto.org,Heather Runberg,https://qoto.org/@heather_runberg,Analytical_atmospheric_chemistry_of_particulate_matter indoor_air_quality outdoor_air_quality,en 
 @mothlight@fediscience.org,Kerry Nice,https://fediscience.org/@mothlight,Micro-climate_modelling,en
+@arwhitehill@atmoschem.org,Andrew R. Whitehill,https://atmoschem.org/@arwhitehill,air_quality vocs atmospheric_chemistry isotopes,en
+@PaulOWennberg@atmoschem.org,Paul Wennberg,https://atmoschem.org/@PaulOWennberg,Atmospheric_Composition,en
+@ProfHuffman@mstdn.social,Alex Huffman,https://mstdn.social/@ProfHuffman,aerosols bioaerosols,en
+@Sarisha@qoto.org,Sarisha Perumal,https://qoto.org/@Sarisha,Air_quality climate_change public_health environmental_policy climate_justice,en
+@mattcooper@atmoschem.org,Matt Cooper,https://atmoschem.org/@mattcooper,Air_quality_policy satellite_remote_sensing environmental_justice,en
+@christinajwilliamson@atmsochem.org,Christina J Williamson,https://atmoschem.org/@christinajwilliamson,Aerosols_and_climate,en
+@simon_sat@scicomm.xyz,Simon Proud,https://scicomm.xyz/@simon_sat,Remote_sensing aerosol_optical_depth satellite_technology,en
+@siyao_yue@atmoschem.org,Siyao YUE,https://atmoschem.org/@siyao_yue,Bioaerosol wildfire BrC,en
+@PolarAmelie@mstdn.social,Amelie Kirchgaessner,https://mstdn.social/@PolarAmelie,Polar_meteorology boundary_layer clouds CCN aerosols IN Föhn,en
+@profesto@airpollution.science,Albert Presto,https://airpollution.science/@profesto,,en
+@sezick@mstdn.science,Stephanie Zick,https://mstdn.science/@sezick,tropical_cyclones precipitation numerical_weather_prediction,en
+@rishabh@airpollution.science,Rishabh Shah,https://airpollution.science/@rishabh,Air_pollution_science aerosols scientific_data_analysis,en
+@aeromattsmith@mastodonapp.uk,Matt Smith,https://mastodonapp.uk/@aeromattsmith,Bioaerosols,en
